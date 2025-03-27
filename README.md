@@ -71,8 +71,5 @@ url = "https://api.themoviedb.org/3/movie/{}?api_key=YOUR_API_KEY&language=en-US
 ## Author
 
 PRAVEER RAJ
-## License
 
-This project is licensed under the **MIT License**.
-
-Thanks for reading.
+Thank you for reading.
